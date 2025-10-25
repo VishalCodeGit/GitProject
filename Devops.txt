@@ -1,0 +1,2 @@
+this file nameis devops.txt
+and this machine is  working on red hat linux 9.4
